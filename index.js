@@ -2,6 +2,9 @@ console.log("Hola mundo.")
 
 let creamosHola = "holaaaaa"
 
+
+
+
 function hola(hola){
     console.log(hola)
 }
