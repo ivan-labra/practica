@@ -6,3 +6,10 @@ function hola(hola){
 
 
 hola("hola, mundo")
+
+
+
+
+
+
+console.log("123")
